@@ -37,6 +37,7 @@ queue.append(neighbour)
 print("Following is the Breadth-First Search")
 bfs(visited, graph, '5') # function calling
 ## Output:
-https://user-images.githubusercontent.com/102855266/277094592-1e6106c6-d3f5-4464-846b-735b01558f4c.png
+![277094592-1e6106c6-d3f5-4464-846b-735b01558f4c](https://github.com/Madhumithamahendran/AI_Lab_2023-24/assets/119394403/ef8a7d44-7dfa-4c5b-a0dc-afa75aaf7473)
+
 ## Result:
 Thus the breadth first search order was found sucessfully
