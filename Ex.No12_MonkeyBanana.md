@@ -81,7 +81,7 @@ Problem :
 )
 ```
 ## Output/Plan:
-![image](https://github.com/Madhumithamahendran/AI_Lab_2023-24/assets/119394403/8475d1c5-bda5-4a2f-857a-e2a9611428df)
+![image](https://github.com/Madhumithamahendran/AI_Lab_2023-24/assets/119394403/25e27616-4af0-4759-9837-65ee91eaab2c)
 
 
 # Result:
