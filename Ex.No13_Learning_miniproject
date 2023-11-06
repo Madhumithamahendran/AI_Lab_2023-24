@@ -98,11 +98,9 @@ app = gr.Interface(fn=diabetes, inputs=['number','number','number','number','num
 app.launch(share=True)
 ```
 # Output:
-![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/5d1d6c69-8b1d-440f-93a7-87b2b6cd97d0)
-![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/2bcf3f5c-8743-4ed0-bdcc-081cdb9001f7)
-![image](https://github.com/AGALYARAMESHKUMAR/AI_Lab_2023-24/assets/119394395/7585e686-519e-4ad6-b368-59dc2710a936)
-
-
+https://user-images.githubusercontent.com/119394395/280510780-5d1d6c69-8b1d-440f-93a7-87b2b6cd97d0.png
+https://user-images.githubusercontent.com/119394395/280510788-2bcf3f5c-8743-4ed0-bdcc-081cdb9001f7.png
+https://user-images.githubusercontent.com/119394395/280510796-7585e686-519e-4ad6-b368-59dc2710a936.png
 
 
 
